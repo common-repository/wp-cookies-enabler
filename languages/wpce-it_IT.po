@@ -1,0 +1,589 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Cookies Enabler 1.0\n"
+"POT-Creation-Date: 2015-10-06 18:30+0100\n"
+"PO-Revision-Date: 2015-10-06 18:31+0100\n"
+"Last-Translator: Filippo Bodei <filippobodei@hotmail.com>\n"
+"Language-Team: \n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.6\n"
+"X-Poedit-Basepath: ..\\\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: templates\n"
+"X-Poedit-SearchPathExcluded-0: inc\n"
+
+#: admin-options.php:41
+msgid "WP Cookies Enabler"
+msgstr "WP Cookies Enabler"
+
+#: admin-options.php:113
+msgid "Save Settings"
+msgstr "Salva le Impostazioni"
+
+#: admin-options.php:114
+msgid "Reset to Default"
+msgstr "Ripristinare i valori iniziali"
+
+#: admin-options.php:140
+msgid "General Settings"
+msgstr "Impostazioni Generali"
+
+#: admin-options.php:153
+msgid "Class names"
+msgstr "Nomi delle Classi"
+
+#: admin-options.php:159
+msgid "Script Class"
+msgstr "Classe Script"
+
+#: admin-options.php:160
+msgid ""
+"Add this class and type=\"text/plain\" to every script tag that installs "
+"cookies"
+msgstr ""
+"Aggiungere questa classe e type=\"text/plain\" ad ogni tag script che "
+"installa cookie"
+
+#: admin-options.php:167
+msgid "Iframe Class"
+msgstr "Classe Iframe"
+
+#: admin-options.php:168
+msgid ""
+"Add this class and change the src attribute to data-ce-src to every iframe "
+"tag that installs cookies"
+msgstr ""
+"Aggiungere questa classe e cambiare l'attributo src in data-ce-src ad ogni "
+"tag iframe che installa cookie"
+
+#: admin-options.php:175
+msgid "Accept Class"
+msgstr "Classe Accettazione"
+
+#: admin-options.php:176
+msgid ""
+"Add this class to any element to make it act as an accept button, enabling "
+"the cookies on click."
+msgstr ""
+"Aggiungere questa classe ad un qualsiasi elemento per renderlo un pulsante "
+"di accettazione che abilita i cookie al click."
+
+#: admin-options.php:183
+msgid "Dismiss Class"
+msgstr "Classe Rifiuto"
+
+#: admin-options.php:184
+msgid ""
+"Add this class to any element to make it act as a dismiss button, removing "
+"the notice banner on click."
+msgstr ""
+"Aggiungere questa classe ad un qualsiasi elemento per renderlo un pulsante "
+"di rifiuto che rimuove il banner al click."
+
+#: admin-options.php:191
+msgid "Disable Class"
+msgstr "Classe Disabilitazione"
+
+#: admin-options.php:192
+msgid ""
+"Add this class to any element to make it act as a disable button, removing "
+"the notice banner and disabling cookies on click."
+msgstr ""
+"Aggiungere questa classe ad un qualsiasi elemento per renderlo un pulsante "
+"di disabilitazione rimuovendo il banner e disabilitando i cookie al click."
+
+#: admin-options.php:206
+msgid "Banner settings"
+msgstr "Impostazione Banner"
+
+#: admin-options.php:213
+msgid "Banner Class"
+msgstr "Classe Banner"
+
+#: admin-options.php:214
+msgid "This is the class of the banner element that will be created."
+msgstr "Questa è la classe del banner che verrà creato."
+
+#: admin-options.php:221
+msgid "Banner HTML"
+msgstr "HTML Banner"
+
+#: admin-options.php:222
+msgid ""
+"Insert the banner content here and give the correct classes to accept, "
+"disable and dismiss elements."
+msgstr ""
+"Inserire qui il contenuto del banner ed assegnare agli elementi le corrette "
+"classi di accettazione, rifiuto e disabilitazione."
+
+#: admin-options.php:238
+msgid ""
+"This website uses cookies. <a href=\"#\" class=\"ce-accept\">Enable Cookies</"
+"a>"
+msgstr ""
+"Questo sito utilizza i cookie. <a href=\"#\" class=\"ce-accept\">Abilita i "
+"Cookie</a>"
+
+#: admin-options.php:249
+msgid "Consent options"
+msgstr "Opzioni di consenso"
+
+#: admin-options.php:256
+msgid "Scroll to consent"
+msgstr "Scorrere per consentire"
+
+#: admin-options.php:257
+msgid ""
+"This option will enable cookies when the user scrolls a certain amount in "
+"any direction."
+msgstr ""
+"Questa opzione abiliterà i cookie quando l'utente scorrerà la pagina di un "
+"certo quantitativo in qualsiasi direzione."
+
+#: admin-options.php:263
+msgid "Scroll Offset"
+msgstr "Offset di scorrimento"
+
+#: admin-options.php:264
+msgid "The height to scroll in pixels."
+msgstr "L'altezza da scorrere in pixel."
+
+#: admin-options.php:271
+msgid "Click to consent"
+msgstr "Cliccare per consentire"
+
+#: admin-options.php:272
+msgid ""
+"This option will enable cookies when the user clicks on any element on the "
+"page that doesn't belong to the notice banner or other script-created "
+"elements."
+msgstr ""
+"Questa opzione abiliterà i cookie quando l'utente cliccherà un qualsiasi "
+"elemento che non appartiene al banner o ad altri elementi creati da script."
+
+#: admin-options.php:285
+msgid "Cookie settings"
+msgstr "Impostazione del Cookie"
+
+#: admin-options.php:292
+msgid "Cookie name"
+msgstr "Nome del Cookie"
+
+#: admin-options.php:293
+msgid ""
+"This is the name of the cookie that is created by this plugin to store the "
+"user preference."
+msgstr ""
+"Questo è il nome del cookie creato da questo plugin per memorizzare la "
+"preferenza dell'utente."
+
+#: admin-options.php:300
+msgid "Cookie duration"
+msgstr "Durata del cookie"
+
+#: admin-options.php:301
+msgid "In days."
+msgstr "In giorni."
+
+#: admin-options.php:315
+msgid "Iframe settings"
+msgstr "Impostazioni Iframe"
+
+#: admin-options.php:322
+msgid "Iframe placeholder"
+msgstr "Sostitutuzione iframe"
+
+#: admin-options.php:323
+msgid ""
+"A custom placeholder for blocked iframes will be inserted after the hidden "
+"iframe element."
+msgstr ""
+"Facendo così, verrà inserito un elemento sostitutivo personalizzato dopo "
+"l'iframe ora nascosto e bloccato."
+
+#: admin-options.php:329
+msgid "Iframes Placeholder Class"
+msgstr "Classe dell'elemento sostitutivo dell'iframe"
+
+#: admin-options.php:330
+msgid "This is the class of the placeholder element that will be created."
+msgstr "Questa è la classe dell'elemento sostitutivo che verrà creato."
+
+#: admin-options.php:337
+msgid "Placeholder HTML"
+msgstr "HTML sostitutivo"
+
+#: admin-options.php:338
+msgid ""
+"Insert the placeholder content here and give the correct classes to accept, "
+"disable and dismiss elements."
+msgstr ""
+"Inserire qui il contenuto dell'elemento sostitutivo ed assegnare agli "
+"elementi le corrette classi di accettazione, rifiuto e disabilitazione."
+
+#: admin-options.php:354
+msgid ""
+"This content is not available without cookies. <a href=\"#\" class=\"ce-"
+"accept\">Enable Cookies</a>"
+msgstr ""
+"Questo contenuto non è disponibile senza l'utilizzo dei cookie. <a href=\"#"
+"\" class=\"ce-accept\">Abilita i Cookie</a>"
+
+#: admin-options.php:368
+msgid "Aspect"
+msgstr "Aspetto"
+
+#: admin-options.php:379
+msgid "Banner position"
+msgstr "Posizione del Banner"
+
+#: admin-options.php:380
+msgid "Position your banner at the top or at the bottom of your page."
+msgstr "Posiziona il banner in cima o in fondo alla pagina."
+
+#: admin-options.php:385
+msgid "Top"
+msgstr "Top"
+
+#: admin-options.php:386
+msgid "Bottom"
+msgstr "Bottom"
+
+#: admin-options.php:391
+msgid "Text color"
+msgstr "Colore del Testo"
+
+#: admin-options.php:392
+msgid "Text color. Default #ffffff"
+msgstr "Colore del testo. Default #ffffff"
+
+#: admin-options.php:399
+msgid "Banner background"
+msgstr "Sfondo del Banner"
+
+#: admin-options.php:400
+msgid "Banner background color. Default #222222"
+msgstr "Sfondo del Banner. Default #222222"
+
+#: admin-options.php:407
+msgid "Other customizations"
+msgstr "Altre personalizzazioni"
+
+#: admin-options.php:408
+msgid ""
+"You can further customize the aspect of the banner and his text by using the "
+"visual editor in the General Settings tab or typing directly custom CSS code."
+msgstr ""
+"È possibile personalizzare ulteriormente l'aspetto del banner e del testo "
+"usando l'editor visuale nel tab relativo alle Impostazioni Generali oppure "
+"inserendo direttamente del codice CSS personalizzato."
+
+#: admin-options.php:414
+msgid "Custom CSS"
+msgstr "CSS personalizzato"
+
+#: admin-options.php:415
+msgid ""
+"Type in your custom CSS code. Use class names you specified in General "
+"Settings."
+msgstr ""
+"Inserire qui il codice CSS personalizzato. Usare le stesse classi definite "
+"nelle Impostazioni Generali."
+
+#: templates/index.php:3
+msgid "What's New"
+msgstr "Novità"
+
+#: templates/index.php:3
+msgid "Documentation"
+msgstr "Documentazione"
+
+#: templates/index.php:3
+msgid "Credits"
+msgstr "Riconoscimenti"
+
+#: templates/index.php:24
+#, php-format
+msgid "WP Cookies Enabler %s"
+msgstr "WP Cookies Enabler %s"
+
+#: templates/index.php:26
+msgid ""
+"WP Cookies Enabler is an easy and lightweight solution to preventively block "
+"third-party cookies installed by js and to comply with the EU cookie law."
+msgstr ""
+"WP Cookies Enabler è una soluzione semplice e leggera per bloccare "
+"preventivamente i cookie di terze parti installati da javascript, osservando "
+"così la legge sui cookie Europea."
+
+#: templates/index.php:27
+#, php-format
+msgid "Version %s"
+msgstr "Versione %s"
+
+#: templates/index.php:30
+msgid "Go to Settings"
+msgstr "Vai alle Impostazioni"
+
+#: templates/setup-pages.php:15
+msgid "WP Cookies Enabler Info"
+msgstr "WP Cookies Enabler Info"
+
+#: templates/setup-pages.php:15
+msgid "Info"
+msgstr "Informazioni"
+
+#: templates/wpce-credits.php:3
+msgid "Project Leader"
+msgstr "Responsabili del Progetto"
+
+#: templates/wpce-credits.php:8
+msgid "Development Leader"
+msgstr "Responsabile dello Sviluppo"
+
+#: templates/wpce-credits.php:12
+msgid "External libraries"
+msgstr "Librerie esterne"
+
+#: templates/wpce-credits.php:13
+msgid ""
+"This plugin uses some external libraries to accomplish some of his goals."
+msgstr ""
+"Questo plugin utilizza alcune librerie esterne per raggiungere alcuni dei "
+"propri obiettivi."
+
+#: templates/wpce-credits.php:15 templates/wpce-credits.php:16
+#: templates/wpce-credits.php:17 templates/wpce-credits.php:18
+msgid "by"
+msgstr "di"
+
+#: templates/wpce-credits.php:15
+msgid "as the cookie-blocking engine"
+msgstr "come motore blocca cookie"
+
+#: templates/wpce-credits.php:16
+msgid "to defer synchronous scripts"
+msgstr "per posporre gli scripr sincroni"
+
+#: templates/wpce-credits.php:17
+msgid "for the custom CSS editor"
+msgstr "per l'editor CSS"
+
+#: templates/wpce-credits.php:18
+msgid "for custom metaboxes in the settings page"
+msgstr "per i custom metabox nella pagina delle impostazioni"
+
+#: templates/wpce-doc.php:2
+msgid ""
+"WP Cookies Enabler will not block cookies out of the box. Even though the "
+"banner is displayed, you still have to put your hands on the code to "
+"actually stop cookies. Here it is what you have to do."
+msgstr ""
+"WP Cookies Enabler non blocca automaticamente i cookie. Nonostante il banner "
+"venga visualizzato, sarà necessario sporcarsi le mani con il codice per "
+"fermare effettivamente l'installazione dei cookie. Ecco come si deve fare."
+
+#: templates/wpce-doc.php:5
+msgid "Blocking cookies from script tags"
+msgstr "Bloccare i cookie provenienti da tag script"
+
+#: templates/wpce-doc.php:6
+msgid ""
+"Add the class <code>\"ce-script\"</code> and <code>type=\"text/plain\"</"
+"code> to every script tag that installs cookies"
+msgstr ""
+"Aggiungere la classe <code>\"ce-script\"</code> e <code>type=\"text/plain\"</"
+"code> ad ogni tag script che installa cookie"
+
+#: templates/wpce-doc.php:23
+msgid "Blocking cookies from iframes"
+msgstr "Bloccare i cookie provenienti da iframe"
+
+#: templates/wpce-doc.php:24
+msgid ""
+"For <code>iframes</code>, change the <code>src</code> attribute to "
+"<code>data-ce-src</code> and add the class <code>\"ce-iframe\"</code>"
+msgstr ""
+"Per quanto riguarda gli <code>iframes</code>, cambiare l'attributo "
+"<code>src</code> in <code>data-ce-src</code> e aggiungere la classe <code>"
+"\"ce-iframe\"</code>"
+
+#: templates/wpce-doc.php:26
+msgid "iframe placeholder"
+msgstr "Sostitutuzione iframe"
+
+#: templates/wpce-doc.php:27
+#, php-format
+msgid ""
+"You can enable placeholders for blocked iframes using the related option in "
+"the <a href=\"%s\">General Settings</a> page."
+msgstr ""
+"È possibile abilitare la sostitutuzione degli iframe bloccati usando la "
+"relativa opzione nella pagina delle <a href=\"%s\">Impostazioni Generali</a>."
+
+#: templates/wpce-doc.php:28
+msgid ""
+"Doing so, a custom placeholder for blocked iframes will be inserted after "
+"the hidden <code>iframe</code> element."
+msgstr ""
+"Facendo così, verrà inserito un sostituto personalizzato dopo "
+"l'<code>iframe</code> ora nascosto e bloccato."
+
+#: templates/wpce-doc.php:29
+msgid ""
+"You can customize the placeholder HTML using his relative text editor in the "
+"Settings page."
+msgstr ""
+"Si può personalizzare il codice HTML dell'elemento sostitutivo usando il "
+"relativo editor di testo nella pagina delle Impostazioni."
+
+#: templates/wpce-doc.php:33
+msgid "Problematic scripts"
+msgstr "Script problematici"
+
+#: templates/wpce-doc.php:34
+msgid ""
+"Some scripts use <code>document.write</code> and can't be executed "
+"asynchronusly. This plugin load Postscribe to defer the loading of these "
+"script without blocking the page."
+msgstr ""
+"Alcuni script usano <code>document.write</code> e non possono essere "
+"eseguiti in modo asincrono. Questo plugin usa Postscribe per posporre il "
+"caricamento di questi script senza bloccare la pagina."
+
+#: templates/wpce-doc.php:35
+msgid ""
+"Just change the <code>src</code> to <code>data-ce-src</code> and add the "
+"class <code>ce-script</code>."
+msgstr ""
+"Cambiare semplicemente l'attributo <code>src</code> in <code>data-ce-src</"
+"code> e aggiungere la classe <code>ce-script</code>."
+
+#: templates/wpce-doc.php:40
+msgid "DOM hooks"
+msgstr "DOM hooks"
+
+#: templates/wpce-doc.php:41
+msgid ""
+"Adding the <code>ce-accept</code> class to any element will make it act as "
+"an accept button, enabling the cookies on click."
+msgstr ""
+"Aggiungendo la classe <code>ce-accept</code> ad un qualsiasi elemento lo "
+"farà agire come un pulsante di accettazione, abilitando i cookie in seguito "
+"al click."
+
+#: templates/wpce-doc.php:42
+msgid ""
+"Adding the <code>ce-dismiss</code> class to any element will make it act as "
+"a dismiss button, removing the notice banner on click."
+msgstr ""
+"Aggiungendo la classe <code>ce-dismiss</code> ad un qualsiasi elemento lo "
+"farà agire come un pulsante di rifiuto, rimuovendo il banner in seguito al "
+"click."
+
+#: templates/wpce-doc.php:43
+msgid ""
+"Adding the <code>ce-disable</code> class to any element will make it act as "
+"a disable button, removing the notice banner and disabling cookies on click."
+msgstr ""
+"Aggiungendo la classe <code>ce-disable</code> ad un qualsiasi elemento lo "
+"farà agire come un pulsante di disabilitazione, rimuovendo il banner e "
+"disabilitando i cookie in seguito al click."
+
+#: templates/wpce-news.php:4
+msgid "COOKIE LOVES YOU!"
+msgstr "I COOKIE TI VOGLIONO BENE!"
+
+#: templates/wpce-news.php:6
+msgid "EU legislation on cookies"
+msgstr "Legislazione Europea riguardo ai cookie"
+
+#: templates/wpce-news.php:8
+#, php-format
+msgid ""
+"EUROPEAN websites must follow the Commission's guidelines on <a href=\"%s\" "
+"target=\"blank\">privacy and data protection</a> and inform users that "
+"cookies are not being used to gather information unnecessarily."
+msgstr ""
+"I siti EUROPEI devono seguire le linee guida della Commissione su <a href="
+"\"%s\" target=\"blank\">privacy e protezione dei dati</a> e informare gli "
+"utenti che i cookie non vengono utilizzati per raccogliere informazioni al "
+"di là di quelle strettamente necessarie."
+
+#: templates/wpce-news.php:9
+#, php-format
+msgid ""
+"The <a href=\"%s\" target=\"blank\">ePrivacy directive</a> – more "
+"specifically Article 5(3) – requires prior informed consent for storage or "
+"for access to information stored on a user's terminal equipment. In other "
+"words, you must ask users if they agree to most cookies and similar "
+"technologies before the site starts to use them."
+msgstr ""
+"La <a href=\"%s\" target=\"blank\">direttiva sulla privacy in rete</a> – più "
+"specificatamente l'Articolo 5(3) – richiede un consenso informato preventivo "
+"per la memorizzazione o l'accesso ad informazioni contenute nel terminale "
+"dell'utente. In altre parole, si deve chiedere all'utente se è d'accordo "
+"sull'utilizzo dei cookie e di tecnologie simili prima che il sito stesso "
+"inizi ad usarle."
+
+#: templates/wpce-news.php:11
+msgid ""
+"For <strong>consent</strong> to be valid, it must be <strong>informed</"
+"strong>, <strong>specific</strong>, <strong>freely given</strong> and must "
+"constitute a real indication of the individual's wishes."
+msgstr ""
+"Affinché il <strong>consenso</strong> sia valido, esso deve essere "
+"<strong>informato</strong>, <strong>preciso</strong>, <strong>dato "
+"liberamente</strong> e deve costituire una reale indicazione del proprio "
+"volere."
+
+#: templates/wpce-news.php:18
+msgid "Block cookies from script tags..."
+msgstr "Blocca i cookie provenienti dai tag script..."
+
+#: templates/wpce-news.php:20
+msgid ""
+"Prevent javascript from installing cookies through <code>&lt;script&gt;</"
+"code> tags, ie Google Analytics."
+msgstr ""
+"Impedisce a javascript di installare i cookie attraverso i tag <code>&lt;"
+"script&gt;</code>, per esempio quelli di Google Analytics."
+
+#: templates/wpce-news.php:24
+msgid "... iframes..."
+msgstr "... iframe..."
+
+#: templates/wpce-news.php:26
+msgid ""
+"Prevent iframes that could install cookies from being loaded, ie Google Maps."
+msgstr ""
+"Impedisce il caricamento ad iframe che potrebbero installare cookie, come "
+"per esempio Google Maps."
+
+#: templates/wpce-news.php:30
+msgid "... and also problematic scripts"
+msgstr "... e anche da script problematici"
+
+#: templates/wpce-news.php:32
+msgid ""
+"Some scripts use <code>document.write</code> and can't be executed "
+"asynchronusly. Thanks to Postscribe it is possible to defer the loading of "
+"these script without blocking the page."
+msgstr ""
+"Alcuni script usano <code>document.write</code> e non possono essere "
+"eseguiti in maniera asincrona. Grazie a Postscribe è possibile posporre il "
+"caricamento di questi script senza bloccare la pagina."
+
+#: templates/wpce-news.php:37
+msgid "Changelog"
+msgstr "Changelog"
+
+#: templates/wpce-news.php:41
+msgid "First release"
+msgstr "Release iniziale"

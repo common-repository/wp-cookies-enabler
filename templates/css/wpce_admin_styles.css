@@ -1,0 +1,32 @@
+.wp-badge.wpce-badge {
+	background-image: url(../assets/64px.png);
+}
+.wpce-news-tab  .headline-feature {
+	padding-top: 40px;
+}
+.wpce-news-tab  .headline-feature h3 {
+	text-align: left;
+}
+.wpce-news-tab img.featured-image {
+  margin: 0 5%;
+  float: left;
+}
+ul.wpce-list li {
+	margin-left: 25px;
+	list-style-type: square;
+}
+.wpce-footer {
+	padding: 40px 0;
+	color: #999;
+}
+.wpce-footer .wpce-stilekiwi {
+	float: right;
+}
+pre.wpce-code {
+	padding: 16px;
+    overflow: auto;
+    font-size: 90%;
+    line-height: 1.45;
+	background: #eaeaea;
+    background: rgba(0,0,0,.07);
+}

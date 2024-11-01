@@ -1,0 +1,15 @@
+.ce-banner{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: #222;
+    padding: 1em;
+	z-index: 1000;
+}
+
+.ce-iframe-placeholder{
+    padding: 1em;
+    background-color: #eee;
+    margin: 1em 0;
+}
